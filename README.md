@@ -25,6 +25,8 @@ python train.py
 python test.py
 python pipeline.py "Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia." 
 ```
+Note: the phrase above was drawn from a random article from the internet. (out of sample)  
+
 ## Things you should know: 
 
 1. Since I used Glove embeddings for the vocab vector assignment, the initial waiting time to download the embeddings was quite long roughly ~7min or so. 
