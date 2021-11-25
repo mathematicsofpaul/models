@@ -15,7 +15,7 @@ git clone https://github.com/mathematicsofpaul/models
 cd models
 conda create -n paul_nguyen python=3.8 
 pip install -r requirements.txt 
-pip install notebook # if you intend on experimenting with the notebook 
+#pip install notebook #if you intend on experimenting with the notebook 
 ```
 
 The following are the neccessary commands to run the code: 
