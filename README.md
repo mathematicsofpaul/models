@@ -1,5 +1,7 @@
 # Oscer_project_test
-Presented here is an ensemble of three different RNN architectures developed for the task of NER classification. In particular, the RNNs used were vanilla RNNs, GRU RNNs, and LSTM RNNs. The language used to develop the code was PyTorch. I would highly recommend starting with the Guide notebook just to get a feel for what is going on! 
+Presented here is an ensemble of three different RNN architectures developed for the task of NER classification. In particular, the RNNs used were vanilla RNNs, GRU RNNs, and LSTM RNNs. The language used to develop the code was PyTorch. 
+
+I highly recommend starting with the Guide notebook just to get a feel for what is going on! 
 
 ## Setup/Installation
 
