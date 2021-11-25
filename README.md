@@ -11,6 +11,7 @@ To run this project, first clone the repository and install the required python 
 $ cd <directory you want to install to>
 $ git clone https://github.com/mathematicsofpaul/models
 $ cd models
+$ conda create -n paul_nguyen python=3.8 
 $ pip install -r requirements.txt 
 $ pip install notebook # if you intend on experimenting with the algorithm 
 ```
