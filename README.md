@@ -25,5 +25,6 @@ $ python pipeline.py "Clustering of missense mutations in the ataxia-telangiecta
 ```
 ## Things you should know: 
 
-1.
+1. Since I use Glove embeddings for the vocab assignment, the initial waiting time to download the embeddings are quite long. 
+2. The analysis was done on an Nvidia gpu 1080ti with CUDA 11.0. If you had the chance to, please run the code with the gpu that you have preferably on CUDA 11.0 or so.   
 
