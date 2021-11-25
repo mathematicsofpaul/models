@@ -21,10 +21,9 @@ $ pip install notebook # if you intend on experimenting with the notebook
 The following are the neccessary commands to run the code: 
 
 ```
-$ python train.py 
-$ python test.py
-$ python pipeline.py "Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia." 
-
+python train.py 
+python test.py
+python pipeline.py "Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia." 
 ```
 ## Things you should know: 
 
