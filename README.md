@@ -27,6 +27,6 @@ $ python pipeline.py "Clustering of missense mutations in the ataxia-telangiecta
 
 1. Since I used Glove embeddings for the vocab vector assignment, the initial waiting time to download the embeddings were quite long roughly ~7min or so. 
 2. The analysis was done on an Nvidia gpu 1080ti with CUDA 11.0. If you had the chance to, please run the code with the gpu that you have preferably on CUDA 11.0 or so.
-3. I have set the N_EPOCH value to 40, but if is too long then in order to change the value go to the config.py file.    
+3. I have set the N_EPOCH value to 40, but if it takes too long to train then the value can be adjusted in the config.py file.    
 
 
